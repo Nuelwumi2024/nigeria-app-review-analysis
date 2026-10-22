@@ -1,0 +1,10 @@
+app,theme,n_with,mean_with,mean_without,rating_penalty,ci_low,ci_high
+All apps,Failed or delayed transactions,275,2.4473,3.8965,1.4492,1.2463,1.6522
+All apps,"Login, OTP and verification",1950,1.9492,4.0026,2.0533,1.9877,2.1189
+All apps,Fees and charges,598,3.1773,3.8974,0.7202,0.5797,0.8606
+All apps,Customer support,900,2.3822,3.9256,1.5434,1.4289,1.6579
+All apps,App performance and downtime,1583,1.9267,3.9804,2.0537,1.9825,2.1249
+All apps,Account restriction or freeze,162,2.3765,3.8920,1.5154,1.2523,1.7786
+All apps,Fraud and security,324,1.7963,3.9049,2.1086,1.9457,2.2714
+All apps,Loans and credit,941,3.2837,3.9019,0.6181,0.5058,0.7305
+All apps,"Data, airtime and bundles",983,2.7416,3.9188,1.1772,1.0666,1.2878

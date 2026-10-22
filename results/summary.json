@@ -1,0 +1,53 @@
+{
+  "reviews": 33992,
+  "apps": 7,
+  "first": "2025-04-23",
+  "last": "2026-10-20",
+  "pct_negative": 23.867380560131796,
+  "pct_positive": 70.90197693574959,
+  "pct_negative_any_theme": 47.183532601996795,
+  "pct_all_any_theme": 19.095669569310424,
+  "top_complaint_theme": "Login, OTP and verification",
+  "top_complaint_share_of_negative": 17.515099223468507,
+  "complaint_share_of_negative": {
+    "Login, OTP and verification": 17.515099223468507,
+    "App performance and downtime": 14.458276839640083,
+    "Customer support": 6.93947984715888,
+    "Data, airtime and bundles": 6.335510908418588,
+    "Loans and credit": 4.388019228398866,
+    "Fraud and security": 3.1307777640823367,
+    "Fees and charges": 2.9089116233205967,
+    "Failed or delayed transactions": 2.046098853691606,
+    "Account restriction or freeze": 1.2202637741895723
+  },
+  "largest_penalty_theme": "Fraud and security",
+  "largest_penalty": 2.1085688575589967,
+  "penalty_by_theme": {
+    "Failed or delayed transactions": 1.4492186568954963,
+    "Login, OTP and verification": 2.053328371896501,
+    "Fees and charges": 0.7201791401855977,
+    "Customer support": 1.543409350363297,
+    "App performance and downtime": 2.053685262122835,
+    "Account restriction or freeze": 1.51544614868095,
+    "Fraud and security": 2.1085688575589967,
+    "Loans and credit": 0.6181382130235011,
+    "Data, airtime and bundles": 1.1772026969924996
+  },
+  "sector_mean_rating": {
+    "Bank": 3.8155747260433666,
+    "Fintech": 4.2537517053206,
+    "Telecom": 3.252043212775951
+  },
+  "spikes": 1,
+  "common_window_start": "2026-09-14",
+  "common_window_reviews": 11727,
+  "common_window_mean_rating": {
+    "Access More": 3.715036803364879,
+    "Kuda": 4.0340522133938705,
+    "Moniepoint": 4.1828254847645425,
+    "My Airtel": 4.297383535417996,
+    "OPay": 4.555747789311803,
+    "PalmPay": 4.157766990291262,
+    "myMTN NG": 2.3645569620253166
+  }
+}

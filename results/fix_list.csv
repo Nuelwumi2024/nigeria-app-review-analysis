@@ -1,0 +1,22 @@
+app,sector,rank,theme,share_of_negative_pct,rating_penalty,priority
+Access More,Bank,1,"Login, OTP and verification",21.4354,2.0533,44.0139
+Access More,Bank,2,App performance and downtime,14.4498,2.0537,29.6753
+Access More,Bank,3,Customer support,3.5407,1.5434,5.4647
+Kuda,Fintech,1,"Login, OTP and verification",17.8142,2.0533,36.5784
+Kuda,Fintech,2,Customer support,15.0820,1.5434,23.2776
+Kuda,Fintech,3,App performance and downtime,9.2896,2.0537,19.0780
+Moniepoint,Fintech,1,"Login, OTP and verification",10.2253,2.0533,20.9959
+Moniepoint,Fintech,2,App performance and downtime,6.2392,2.0537,12.8133
+Moniepoint,Fintech,3,Fees and charges,11.6118,0.7202,8.3626
+My Airtel,Telecom,1,"Login, OTP and verification",10.6961,2.0533,21.9626
+My Airtel,Telecom,2,App performance and downtime,8.4890,2.0537,17.4337
+My Airtel,Telecom,3,"Data, airtime and bundles",12.7334,1.1772,14.9898
+OPay,Fintech,1,App performance and downtime,8.4906,2.0537,17.4370
+OPay,Fintech,2,"Login, OTP and verification",7.0755,2.0533,14.5283
+OPay,Fintech,3,Customer support,6.1321,1.5434,9.4643
+PalmPay,Fintech,1,Fraud and security,9.2360,2.1086,19.4748
+PalmPay,Fintech,2,Customer support,12.4287,1.5434,19.1826
+PalmPay,Fintech,3,"Login, OTP and verification",7.5257,2.0533,15.4526
+myMTN NG,Telecom,1,"Login, OTP and verification",22.1378,2.0533,45.4562
+myMTN NG,Telecom,2,App performance and downtime,21.2968,2.0537,43.7369
+myMTN NG,Telecom,3,"Data, airtime and bundles",10.5534,1.1772,12.4235

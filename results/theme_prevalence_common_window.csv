@@ -1,0 +1,64 @@
+app,sector,theme,share_all_pct,share_of_negative_pct,negative_with_theme,negative_reviews
+Access More,Bank,Failed or delayed transactions,0.3155,0.7874,2,254
+Access More,Bank,"Login, OTP and verification",8.6225,24.4094,62,254
+Access More,Bank,Fees and charges,2.8391,5.1181,13,254
+Access More,Bank,Customer support,1.5773,3.1496,8,254
+Access More,Bank,App performance and downtime,6.6246,13.7795,35,254
+Access More,Bank,Account restriction or freeze,0.9464,1.9685,5,254
+Access More,Bank,Fraud and security,0.3155,1.1811,3,254
+Access More,Bank,Loans and credit,1.4721,2.3622,6,254
+Access More,Bank,"Data, airtime and bundles",0.5258,0.3937,1,254
+Kuda,Fintech,Failed or delayed transactions,1.1351,3.4483,6,174
+Kuda,Fintech,"Login, OTP and verification",6.5834,21.2644,37,174
+Kuda,Fintech,Fees and charges,1.3621,1.7241,3,174
+Kuda,Fintech,Customer support,4.3133,15.5172,27,174
+Kuda,Fintech,App performance and downtime,3.4052,11.4943,20,174
+Kuda,Fintech,Account restriction or freeze,1.1351,4.0230,7,174
+Kuda,Fintech,Fraud and security,0.9081,4.5977,8,174
+Kuda,Fintech,Loans and credit,3.2917,4.5977,8,174
+Kuda,Fintech,"Data, airtime and bundles",0.3405,0.0000,0,174
+Moniepoint,Fintech,Failed or delayed transactions,0.8310,3.3898,6,177
+Moniepoint,Fintech,"Login, OTP and verification",3.3241,14.1243,25,177
+Moniepoint,Fintech,Fees and charges,3.8781,10.7345,19,177
+Moniepoint,Fintech,Customer support,1.6620,5.6497,10,177
+Moniepoint,Fintech,App performance and downtime,1.4774,5.6497,10,177
+Moniepoint,Fintech,Account restriction or freeze,0.3693,0.0000,0,177
+Moniepoint,Fintech,Fraud and security,0.7387,3.3898,6,177
+Moniepoint,Fintech,Loans and credit,2.8624,5.6497,10,177
+Moniepoint,Fintech,"Data, airtime and bundles",0.3693,0.5650,1,177
+My Airtel,Telecom,Failed or delayed transactions,0.1914,1.3825,3,217
+My Airtel,Telecom,"Login, OTP and verification",2.2974,9.6774,21,217
+My Airtel,Telecom,Fees and charges,0.7020,0.9217,2,217
+My Airtel,Telecom,Customer support,0.7658,2.7650,6,217
+My Airtel,Telecom,App performance and downtime,1.8507,7.8341,17,217
+My Airtel,Telecom,Account restriction or freeze,0.0000,0.0000,0,217
+My Airtel,Telecom,Fraud and security,0.3829,2.7650,6,217
+My Airtel,Telecom,Loans and credit,0.7658,2.3041,5,217
+My Airtel,Telecom,"Data, airtime and bundles",5.6796,9.6774,21,217
+OPay,Fintech,Failed or delayed transactions,0.8651,2.5943,11,424
+OPay,Fintech,"Login, OTP and verification",1.2111,7.0755,30,424
+OPay,Fintech,Fees and charges,1.0381,2.8302,12,424
+OPay,Fintech,Customer support,1.6532,6.1321,26,424
+OPay,Fintech,App performance and downtime,1.6917,8.4906,36,424
+OPay,Fintech,Account restriction or freeze,0.4421,2.5943,11,424
+OPay,Fintech,Fraud and security,0.8458,3.7736,16,424
+OPay,Fintech,Loans and credit,2.8451,8.7264,37,424
+OPay,Fintech,"Data, airtime and bundles",0.5767,0.9434,4,424
+PalmPay,Fintech,Failed or delayed transactions,1.4563,6.6434,19,286
+PalmPay,Fintech,"Login, OTP and verification",1.7597,5.2448,15,286
+PalmPay,Fintech,Fees and charges,2.2451,3.8462,11,286
+PalmPay,Fintech,Customer support,2.7306,12.2378,35,286
+PalmPay,Fintech,App performance and downtime,1.4563,3.8462,11,286
+PalmPay,Fintech,Account restriction or freeze,0.3641,1.0490,3,286
+PalmPay,Fintech,Fraud and security,1.7597,9.4406,27,286
+PalmPay,Fintech,Loans and credit,9.7087,20.9790,60,286
+PalmPay,Fintech,"Data, airtime and bundles",1.6990,4.5455,13,286
+myMTN NG,Telecom,Failed or delayed transactions,0.7595,0.7905,2,253
+myMTN NG,Telecom,"Login, OTP and verification",15.1899,19.7628,50,253
+myMTN NG,Telecom,Fees and charges,0.5063,0.7905,2,253
+myMTN NG,Telecom,Customer support,3.0380,3.1621,8,253
+myMTN NG,Telecom,App performance and downtime,17.2152,23.3202,59,253
+myMTN NG,Telecom,Account restriction or freeze,0.0000,0.0000,0,253
+myMTN NG,Telecom,Fraud and security,3.0380,4.3478,11,253
+myMTN NG,Telecom,Loans and credit,0.7595,0.7905,2,253
+myMTN NG,Telecom,"Data, airtime and bundles",12.1519,15.8103,40,253
